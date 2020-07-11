@@ -1,2 +1,2 @@
 # MyInotify
-basic implementation of the Linux Inotify API
+Basic implementation of the Linux Inotify API
